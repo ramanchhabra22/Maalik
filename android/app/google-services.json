@@ -1,0 +1,42 @@
+{
+    "project_info": {
+      "project_number": "449245001490",
+      "firebase_url": "https://maalik-208115.firebaseio.com",
+      "project_id": "maalik-208115",
+      "storage_bucket": "maalik-208115.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:449245001490:android:c5b6d8c64491a71d",
+          "android_client_info": {
+            "package_name": "com.maalik"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "449245001490-h9ramslkq5gprpu99ilgnj65ub3k69re.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyB822U1vmTTx1Sh17CsPe_iRsEZMr1rQRI"
+          }
+        ],
+        "services": {
+          "analytics_service": {
+            "status": 1
+          },
+          "appinvite_service": {
+            "status": 1,
+            "other_platform_oauth_client": []
+          },
+          "ads_service": {
+            "status": 2
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
